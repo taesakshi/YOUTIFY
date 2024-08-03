@@ -62,7 +62,3 @@ Each song in the playlist is linked to its corresponding YouTube video. Here are
 .
 ├── index.html
 └── README.md
-
-
-
-This `README.md` file provides an overview of the project, explains how to get started, describes the code structure, and lists the YouTube links for each song. You can add any additional details as needed.
